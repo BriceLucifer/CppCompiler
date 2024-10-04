@@ -4,4 +4,13 @@ project(CppCompiler)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(CppCompiler main.cpp
-        common.h)
+        common.h
+        chunk.h
+        chunk.h
+        chunk.cpp
+        debug.h
+        debug.cpp
+        value.h
+        value.cpp
+        vm.cpp
+        vm.h)
