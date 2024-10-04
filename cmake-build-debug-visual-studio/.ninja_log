@@ -1,0 +1,10 @@
+# ninja log v5
+5	290	7497584534977328	CMakeFiles/CppCompiler.dir/chunk.cpp.obj	dabd2a52c233163
+1	422	7497584536291556	CMakeFiles/CppCompiler.dir/main.cpp.obj	f8212ec5be3e57c7
+1	425	7497601222225499	CMakeFiles/CppCompiler.dir/debug.cpp.obj	1b6434b212c2a9d3
+425	509	7497601222883214	CppCompiler.exe	a0bdf6ad36df5856
+1	258	7497589787186506	CMakeFiles/CppCompiler.dir/value.cpp.obj	15a9950f2e46852a
+1	426	7497626291276932	CMakeFiles/CppCompiler.dir/vm.cpp.obj	e28b5aaef7cc5bc9
+426	518	7497626292007571	CppCompiler.exe	4aa9bc429ea67f8a
+1	426	7497630887025271	CMakeFiles/CppCompiler.dir/vm.cpp.obj	e28b5aaef7cc5bc9
+426	516	7497630887744079	CppCompiler.exe	4aa9bc429ea67f8a
