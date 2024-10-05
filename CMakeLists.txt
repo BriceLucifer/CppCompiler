@@ -12,5 +12,6 @@ add_executable(CppCompiler main.cpp
         debug.cpp
         value.h
         value.cpp
-        vm.cpp
-        vm.h)
+        scanner.h
+        scanner.cpp
+)
